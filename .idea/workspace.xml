@@ -45,7 +45,7 @@
       <updated>1599803832207</updated>
       <workItem from="1599803833593" duration="254000" />
       <workItem from="1599805076656" duration="653000" />
-      <workItem from="1599809055340" duration="9431000" />
+      <workItem from="1599809055340" duration="11470000" />
     </task>
     <task id="LOCAL-00001" summary="月餅説明アップデート">
       <created>1600088187227</created>
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600127845189</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="月餅説明アップデート">
+      <created>1600128922442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600128922442</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,13 +86,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="月餅説明アップデート" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1230" y="537" key="CommitChangelistDialog2" timestamp="1600127845067">
+    <state x="1230" y="537" key="CommitChangelistDialog2" timestamp="1600128922315">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state x="1230" y="537" key="CommitChangelistDialog2/0.23.3008.1669@0.23.3008.1669" timestamp="1600127845067" />
-    <state x="1315" y="783" key="Vcs.Push.Dialog.v2" timestamp="1600127846866">
+    <state x="1230" y="537" key="CommitChangelistDialog2/0.23.3008.1669@0.23.3008.1669" timestamp="1600128922315" />
+    <state x="1315" y="783" key="Vcs.Push.Dialog.v2" timestamp="1600128923688">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
-    <state x="1315" y="783" key="Vcs.Push.Dialog.v2/0.23.3008.1669@0.23.3008.1669" timestamp="1600127846866" />
+    <state x="1315" y="783" key="Vcs.Push.Dialog.v2/0.23.3008.1669@0.23.3008.1669" timestamp="1600128923688" />
   </component>
 </project>
