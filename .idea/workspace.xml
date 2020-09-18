@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600390602448</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="月餅レビュー">
+      <created>1600392877897</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600392877897</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,16 +133,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="月餅レビュー" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1230" y="537" key="CommitChangelistDialog2" timestamp="1600390602337">
+    <state x="1230" y="537" key="CommitChangelistDialog2" timestamp="1600392877782">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
     <state x="485" y="23" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1600329917455" />
-    <state x="1230" y="537" key="CommitChangelistDialog2/0.23.3008.1669@0.23.3008.1669" timestamp="1600390602337" />
-    <state x="1315" y="783" key="Vcs.Push.Dialog.v2" timestamp="1600390603993">
+    <state x="1230" y="537" key="CommitChangelistDialog2/0.23.3008.1669@0.23.3008.1669" timestamp="1600392877782" />
+    <state x="1315" y="783" key="Vcs.Push.Dialog.v2" timestamp="1600392879905">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
     <state x="630" y="330" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1600329919172" />
-    <state x="1315" y="783" key="Vcs.Push.Dialog.v2/0.23.3008.1669@0.23.3008.1669" timestamp="1600390603993" />
+    <state x="1315" y="783" key="Vcs.Push.Dialog.v2/0.23.3008.1669@0.23.3008.1669" timestamp="1600392879905" />
     <state x="1358" y="566" width="670" height="676" key="search.everywhere.popup" timestamp="1600352339776">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
