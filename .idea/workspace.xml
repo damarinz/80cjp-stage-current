@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/クーラーバッグをもって中華街お散歩！持ち帰りと通販を楽しもう（焼物編）/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/クーラーバッグをもって中華街お散歩！持ち帰りと通販を楽しもう（焼物編）/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,8 @@
       <workItem from="1599803833593" duration="254000" />
       <workItem from="1599805076656" duration="653000" />
       <workItem from="1599809055340" duration="13936000" />
+      <workItem from="1601992415177" duration="588000" />
+      <workItem from="1601993422709" duration="4458000" />
     </task>
     <task id="LOCAL-00001" summary="月餅説明アップデート">
       <created>1600088187227</created>
@@ -199,14 +202,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="月餅説明アップデート" />
     <MESSAGE value="月餅レビュー" />
-    <option name="LAST_COMMIT_MESSAGE" value="月餅レビュー" />
+    <MESSAGE value="月餅を掲載済みに" />
+    <option name="LAST_COMMIT_MESSAGE" value="月餅を掲載済みに" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1230" y="537" key="CommitChangelistDialog2" timestamp="1600398059652">
+    <state x="1230" y="537" key="CommitChangelistDialog2" timestamp="1601992456842">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
     <state x="485" y="23" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1600329917455" />
-    <state x="1230" y="537" key="CommitChangelistDialog2/0.23.3008.1669@0.23.3008.1669" timestamp="1600398059652" />
+    <state x="1230" y="537" key="CommitChangelistDialog2/0.23.3008.1669@0.23.3008.1669" timestamp="1601992456842" />
     <state x="1315" y="783" key="Vcs.Push.Dialog.v2" timestamp="1600398061032">
       <screen x="0" y="23" width="3008" height="1669" />
     </state>
