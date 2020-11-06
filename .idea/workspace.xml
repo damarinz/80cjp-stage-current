@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/横浜オールド中華探訪9｜好みの味を見つけよう！横浜中華街のおいしい“手作り肉まん”（後編）/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/クーラーバッグをもって中華街お散歩！持ち帰りと通販を楽しもう（焼物編）/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/クーラーバッグをもって中華街お散歩！持ち帰りと通販を楽しもう（焼物編）/readme.md" afterDir="false" />
     </list>
@@ -10,8 +11,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1hLwlZ7BA3tb7ir3d2RITJFJrLQ" />
   <component name="ProjectViewState">
@@ -21,6 +28,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -31,6 +40,19 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -47,6 +69,9 @@
       <workItem from="1601993422709" duration="12373000" />
       <workItem from="1602074908622" duration="221000" />
       <workItem from="1603856264246" duration="128000" />
+      <workItem from="1604119423773" duration="585000" />
+      <workItem from="1604560436095" duration="858000" />
+      <workItem from="1604562928954" duration="10002000" />
     </task>
     <task id="LOCAL-00001" summary="月餅説明アップデート">
       <created>1600088187227</created>
@@ -244,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602074928223</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="マギーズキッチン">
+      <created>1604119522866</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1604119522866</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,19 +287,22 @@
     <MESSAGE value="月餅レビュー" />
     <MESSAGE value="月餅を掲載済みに" />
     <MESSAGE value="叉焼" />
-    <option name="LAST_COMMIT_MESSAGE" value="叉焼" />
+    <MESSAGE value="マギーズキッチン" />
+    <option name="LAST_COMMIT_MESSAGE" value="マギーズキッチン" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1230" y="537" key="CommitChangelistDialog2" timestamp="1602074928058">
-      <screen x="0" y="23" width="3008" height="1669" />
+    <state x="421" y="29" key="CommitChangelistDialog2" timestamp="1604119522758">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="-993" y="29" key="CommitChangelistDialog2/-1680.23.1680.1027/0.23.1920.1057@-1680.23.1680.1027" timestamp="1602061044924" />
+    <state x="421" y="29" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1604119522758" />
     <state x="485" y="23" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1600329917455" />
     <state x="1230" y="537" key="CommitChangelistDialog2/0.23.3008.1669@0.23.3008.1669" timestamp="1602074928058" />
-    <state x="1315" y="783" width="799" height="522" key="Vcs.Push.Dialog.v2" timestamp="1602074944289">
-      <screen x="0" y="23" width="3008" height="1669" />
+    <state x="734" y="478" width="522" height="329" key="Vcs.Push.Dialog.v2" timestamp="1604119524172">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="-946" y="491" key="Vcs.Push.Dialog.v2/-1680.23.1680.1027/0.23.1920.1057@-1680.23.1680.1027" timestamp="1602061047930" />
+    <state x="734" y="478" width="522" height="329" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1604119524172" />
     <state x="630" y="330" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1600329919172" />
     <state x="1315" y="783" width="799" height="522" key="Vcs.Push.Dialog.v2/0.23.3008.1669@0.23.3008.1669" timestamp="1602074944289" />
     <state x="1358" y="566" width="670" height="676" key="search.everywhere.popup" timestamp="1600352339776">
