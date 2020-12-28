@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/好みの味を見つけよう！横浜中華街のおいしい“手作り肉まん”（後編）/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/好みの味を見つけよう！横浜中華街のおいしい“手作り肉まん”（後編）/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +82,7 @@
       <workItem from="1607559734797" duration="10587000" />
       <workItem from="1608164028787" duration="2121000" />
       <workItem from="1608439041920" duration="310000" />
-      <workItem from="1608439360184" duration="20224000" />
+      <workItem from="1608439360184" duration="20532000" />
     </task>
     <task id="LOCAL-00001" summary="月餅説明アップデート">
       <created>1600088187227</created>
@@ -381,7 +378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609077667858</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="肉まん再調査　文章リライト">
+      <created>1609115692263</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1609115692263</updated>
+    </task>
+    <task id="LOCAL-00044" summary="肉まん再調査　文章リライト">
+      <created>1609115965719</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1609115965719</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
