@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PC Watch: 炭酸ガス冷却やテレワークするならCO2メーター買っとけ/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PC Watch: 炭酸ガス冷却やテレワークするならCO2メーター買っとけ/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,14 +86,7 @@
       <workItem from="1608164028787" duration="2121000" />
       <workItem from="1608439041920" duration="310000" />
       <workItem from="1608439360184" duration="22820000" />
-      <workItem from="1609909096093" duration="9980000" />
-    </task>
-    <task id="LOCAL-00004" summary="月餅説明アップデート">
-      <created>1600128922442</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1600128922442</updated>
+      <workItem from="1609909096093" duration="10994000" />
     </task>
     <task id="LOCAL-00005" summary="月餅説明アップデート">
       <created>1600245961463</created>
@@ -430,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609922861883</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="CO2測定器　タイトル修正">
+      <created>1609923006840</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1609923006840</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
