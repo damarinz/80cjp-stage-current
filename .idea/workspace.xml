@@ -85,14 +85,7 @@
       <workItem from="1608164028787" duration="2121000" />
       <workItem from="1608439041920" duration="310000" />
       <workItem from="1608439360184" duration="22820000" />
-      <workItem from="1609909096093" duration="9223000" />
-    </task>
-    <task id="LOCAL-00001" summary="月餅説明アップデート">
-      <created>1600088187227</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1600088187227</updated>
+      <workItem from="1609909096093" duration="9648000" />
     </task>
     <task id="LOCAL-00002" summary="月餅説明アップデート">
       <created>1600090139103</created>
@@ -423,7 +416,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609921823526</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="CO2測定器">
+      <created>1609922370082</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1609922370082</updated>
+    </task>
+    <task id="LOCAL-00050" summary="CO2測定器">
+      <created>1609922427000</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1609922427001</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
