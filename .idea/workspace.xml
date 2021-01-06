@@ -85,21 +85,7 @@
       <workItem from="1608164028787" duration="2121000" />
       <workItem from="1608439041920" duration="310000" />
       <workItem from="1608439360184" duration="22820000" />
-      <workItem from="1609909096093" duration="9648000" />
-    </task>
-    <task id="LOCAL-00002" summary="月餅説明アップデート">
-      <created>1600090139103</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1600090139103</updated>
-    </task>
-    <task id="LOCAL-00003" summary="月餅説明アップデート">
-      <created>1600127845189</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1600127845189</updated>
+      <workItem from="1609909096093" duration="9980000" />
     </task>
     <task id="LOCAL-00004" summary="月餅説明アップデート">
       <created>1600128922442</created>
@@ -430,7 +416,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609922427001</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="CO2測定器　タイトル修正">
+      <created>1609922692084</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1609922692084</updated>
+    </task>
+    <task id="LOCAL-00052" summary="CO2測定器　タイトル修正">
+      <created>1609922861883</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1609922861883</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,6 +447,7 @@
     <MESSAGE value="肉まん再調査" />
     <MESSAGE value="肉まん再調査　文章リライト" />
     <MESSAGE value="CO2測定器" />
-    <option name="LAST_COMMIT_MESSAGE" value="CO2測定器" />
+    <MESSAGE value="CO2測定器　タイトル修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="CO2測定器　タイトル修正" />
   </component>
 </project>
