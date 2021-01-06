@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="" />
+    <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PC Watch: 炭酸ガス冷却やテレワークするならCO2メーター買っとけ/images/225FDBEC.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 炭酸ガス冷却やテレワークするならCO2メーター買っとけ/images/IMG_0743.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 炭酸ガス冷却やテレワークするならCO2メーター買っとけ/images/IMG_2136.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 炭酸ガス冷却やテレワークするならCO2メーター買っとけ/images/IMG_2138.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 炭酸ガス冷却やテレワークするならCO2メーター買っとけ/images/IMG_2159.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 炭酸ガス冷却やテレワークするならCO2メーター買っとけ/images/IMG_2225.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 炭酸ガス冷却やテレワークするならCO2メーター買っとけ/images/IMG_2454.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 炭酸ガス冷却やテレワークするならCO2メーター買っとけ/images/IMG_2455.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC Watch: 炭酸ガス冷却やテレワークするならCO2メーター買っとけ/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PC Watch: 炭酸ガス冷却やテレワークするならCO2メーター買っとけ/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +93,8 @@
       <workItem from="1607559734797" duration="10587000" />
       <workItem from="1608164028787" duration="2121000" />
       <workItem from="1608439041920" duration="310000" />
-      <workItem from="1608439360184" duration="21341000" />
+      <workItem from="1608439360184" duration="22820000" />
+      <workItem from="1609909096093" duration="7965000" />
     </task>
     <task id="LOCAL-00001" summary="月餅説明アップデート">
       <created>1600088187227</created>
@@ -399,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609116281525</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="肉まん再調査　文章リライト">
+      <created>1609118486107</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1609118486107</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
