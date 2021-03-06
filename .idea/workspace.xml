@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PC Watch: 憧れの存在に再会するときは要注意だ。蟹との遭遇/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 憧れの存在に再会するときは要注意だ。蟹との遭遇/images/Blackmagic_Design_Disk_Speed_Test.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 憧れの存在に再会するときは要注意だ。蟹との遭遇/images/IMG_2439.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 憧れの存在に再会するときは要注意だ。蟹との遭遇/images/IMG_2701.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 憧れの存在に再会するときは要注意だ。蟹との遭遇/images/IMG_2725.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 憧れの存在に再会するときは要注意だ。蟹との遭遇/images/IMG_2727.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 憧れの存在に再会するときは要注意だ。蟹との遭遇/images/IMG_2729.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 憧れの存在に再会するときは要注意だ。蟹との遭遇/images/IMG_2732.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 憧れの存在に再会するときは要注意だ。蟹との遭遇/images/IMG_2887.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC Watch: 憧れの存在に再会するときは要注意だ。蟹との遭遇/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PC Watch: 憧れの存在に再会するときは要注意だ。蟹との遭遇/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,14 +87,7 @@
       <workItem from="1608439360184" duration="22820000" />
       <workItem from="1609909096093" duration="11600000" />
       <workItem from="1614644140414" duration="73000" />
-      <workItem from="1614644225580" duration="26194000" />
-    </task>
-    <task id="LOCAL-00006" summary="月餅説明アップデート">
-      <created>1600267202217</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1600267202217</updated>
+      <workItem from="1614644225580" duration="26560000" />
     </task>
     <task id="LOCAL-00007" summary="月餅説明アップデート">
       <created>1600267232232</created>
@@ -441,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609925002719</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="PC Watch KODAK SSD">
+      <created>1615015619208</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1615015619209</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,6 +450,7 @@
     <MESSAGE value="肉まん再調査　文章リライト" />
     <MESSAGE value="CO2測定器" />
     <MESSAGE value="CO2測定器　タイトル修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="CO2測定器　タイトル修正" />
+    <MESSAGE value="PC Watch KODAK SSD" />
+    <option name="LAST_COMMIT_MESSAGE" value="PC Watch KODAK SSD" />
   </component>
 </project>
