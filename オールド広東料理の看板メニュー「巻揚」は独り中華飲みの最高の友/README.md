@@ -206,9 +206,9 @@ TEL：045-681-6515
 
 
 
-※参考　サトタカさん用
+## ※　参考　サトタカさん確認用
 
-消失中的味道（增訂版）　という本の最初の最初にとりあげられています。電子版あり。
+「消失中的味道（增訂版）」　という本の最初の最初にとりあげられています。電子版あり。
 
 食材庫：豬網油
 https://guide.michelin.com/hk/zh_HK/hong-kong-region/hong-kong/article/dining-in/ingredients-caul-fat
