@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/R0000123.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,14 +92,7 @@
       <workItem from="1614644225580" duration="27685000" />
       <workItem from="1615266681518" duration="13278000" />
       <workItem from="1615444707525" duration="8239000" />
-      <workItem from="1615467030858" duration="3907000" />
-    </task>
-    <task id="LOCAL-00011" summary="月餅レビュー">
-      <created>1600392877897</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1600392877897</updated>
+      <workItem from="1615467030858" duration="4681000" />
     </task>
     <task id="LOCAL-00012" summary="月餅レビュー">
       <created>1600393841862</created>
@@ -435,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615472826333</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="巻揚記事">
+      <created>1615473430016</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1615473430016</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
