@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/PC Watch: 憧れの存在に再会するときは要注意だ。蟹との遭遇/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PC Watch: 憧れの存在に再会するときは要注意だ。蟹との遭遇/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/IMGP0916.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/IMGP1558.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/IMG_1459.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/IMG_1484.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/IMG_2468.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/IMG_2686.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/IMG_2981.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/IMG_4133.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/IMG_6682.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/IMG_6688.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/IMG_6691.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/R0003311.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/images/R0003941.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,21 +101,10 @@
       <workItem from="1608439360184" duration="22820000" />
       <workItem from="1609909096093" duration="11600000" />
       <workItem from="1614644140414" duration="73000" />
-      <workItem from="1614644225580" duration="27028000" />
-    </task>
-    <task id="LOCAL-00008" summary="月餅レビュー">
-      <created>1600329917618</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1600329917618</updated>
-    </task>
-    <task id="LOCAL-00009" summary="月餅レビュー">
-      <created>1600353235359</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1600353235359</updated>
+      <workItem from="1614644225580" duration="27685000" />
+      <workItem from="1615266681518" duration="13278000" />
+      <workItem from="1615444707525" duration="8239000" />
+      <workItem from="1615467030858" duration="3373000" />
     </task>
     <task id="LOCAL-00010" summary="月餅レビュー">
       <created>1600390602448</created>
@@ -432,7 +435,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615016137878</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="PC Watch KODAK SSD">
+      <created>1615016463588</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1615016463588</updated>
+    </task>
+    <task id="LOCAL-00058" summary="PC Watch KODAK SSD">
+      <created>1615016507867</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1615016507867</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
