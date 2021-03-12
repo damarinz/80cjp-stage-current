@@ -91,28 +91,7 @@
       <workItem from="1614644225580" duration="27685000" />
       <workItem from="1615266681518" duration="13278000" />
       <workItem from="1615444707525" duration="8239000" />
-      <workItem from="1615467030858" duration="5391000" />
-    </task>
-    <task id="LOCAL-00013" summary="月餅レビュー">
-      <created>1600393908939</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1600393908939</updated>
-    </task>
-    <task id="LOCAL-00014" summary="月餅レビュー">
-      <created>1600395226589</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1600395226589</updated>
-    </task>
-    <task id="LOCAL-00015" summary="月餅レビュー">
-      <created>1600395381207</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1600395381207</updated>
+      <workItem from="1615467030858" duration="6589000" />
     </task>
     <task id="LOCAL-00016" summary="月餅レビュー">
       <created>1600396264340</created>
@@ -436,7 +415,28 @@
       <option name="project" value="LOCAL" />
       <updated>1615474216586</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="巻揚記事">
+      <created>1615475015531</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1615475015531</updated>
+    </task>
+    <task id="LOCAL-00063" summary="巻揚記事">
+      <created>1615475188140</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1615475188140</updated>
+    </task>
+    <task id="LOCAL-00064" summary="巻揚記事">
+      <created>1615475232692</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1615475232692</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
