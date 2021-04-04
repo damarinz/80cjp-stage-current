@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,28 +92,7 @@
       <workItem from="1615266681518" duration="13278000" />
       <workItem from="1615444707525" duration="8239000" />
       <workItem from="1615467030858" duration="12511000" />
-      <workItem from="1617514662704" duration="12192000" />
-    </task>
-    <task id="LOCAL-00023" summary="叉焼">
-      <created>1602031785540</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1602031785540</updated>
-    </task>
-    <task id="LOCAL-00024" summary="叉焼">
-      <created>1602059977114</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1602059977114</updated>
-    </task>
-    <task id="LOCAL-00025" summary="叉焼">
-      <created>1602061045097</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1602061045097</updated>
+      <workItem from="1617514662704" duration="12492000" />
     </task>
     <task id="LOCAL-00026" summary="叉焼">
       <created>1602074426178</created>
@@ -438,7 +416,28 @@
       <option name="project" value="LOCAL" />
       <updated>1617528405361</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="中華コンデンサーマイク">
+      <created>1617534328797</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1617534328797</updated>
+    </task>
+    <task id="LOCAL-00073" summary="中華コンデンサーマイク">
+      <created>1617534488099</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1617534488099</updated>
+    </task>
+    <task id="LOCAL-00074" summary="中華コンデンサーマイク">
+      <created>1617534522964</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1617534522964</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
