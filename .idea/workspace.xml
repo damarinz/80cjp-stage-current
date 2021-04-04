@@ -93,14 +93,7 @@
       <workItem from="1615266681518" duration="13278000" />
       <workItem from="1615444707525" duration="8239000" />
       <workItem from="1615467030858" duration="12511000" />
-      <workItem from="1617514662704" duration="10280000" />
-    </task>
-    <task id="LOCAL-00022" summary="叉焼">
-      <created>1602030320937</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1602030320937</updated>
+      <workItem from="1617514662704" duration="12192000" />
     </task>
     <task id="LOCAL-00023" summary="叉焼">
       <created>1602031785540</created>
@@ -438,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617527067580</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="中華コンデンサーマイク">
+      <created>1617528405361</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1617528405361</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
