@@ -7,7 +7,7 @@
 AliExpressをぼーっと見ていたら、Yetiのそっくりさんを発見したのだ。
 
 
- ![](images/FIFINE_K678_AliExpress.jpeg)
+ ![](images/Fifine_K678_AliExpress.jpeg)
 
 ＜写真＞　たぶん、詳しい人でも間違えてポチるほど何かに似ているように思える
 
