@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/images/Fifine_K678_AliExpress.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/images/IMG_3266.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/images/IMG_3271.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/images/IMG_3275.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/images/IMG_3279.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/images/IMG_3280.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/images/SonicVisual1_broken.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/images/Sonic_Visualiser_repaired.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/オールド広東料理の看板メニュー「巻揚」は独り中華飲みの最高の友/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,14 +93,7 @@
       <workItem from="1615266681518" duration="13278000" />
       <workItem from="1615444707525" duration="8239000" />
       <workItem from="1615467030858" duration="12511000" />
-      <workItem from="1617514662704" duration="9338000" />
-    </task>
-    <task id="LOCAL-00021" summary="月餅レビュー">
-      <created>1600398059751</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1600398059751</updated>
+      <workItem from="1617514662704" duration="10280000" />
     </task>
     <task id="LOCAL-00022" summary="叉焼">
       <created>1602030320937</created>
@@ -447,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615529785460</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="中華コンデンサーマイク">
+      <created>1617527067580</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1617527067580</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,6 +458,7 @@
     <MESSAGE value="CO2測定器　タイトル修正" />
     <MESSAGE value="PC Watch KODAK SSD" />
     <MESSAGE value="巻揚記事" />
-    <option name="LAST_COMMIT_MESSAGE" value="巻揚記事" />
+    <MESSAGE value="中華コンデンサーマイク" />
+    <option name="LAST_COMMIT_MESSAGE" value="中華コンデンサーマイク" />
   </component>
 </project>
