@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PC Watch: 中華コンデンサーマイクは分解修理してからがスタートだ/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_1536.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_1539.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_1540.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_1542.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_1681.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_2413.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_2457.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_2460.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_2462.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_2465.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_6698.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_7058.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/R0003058.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/R0003059.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/R0003061.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/R0003063 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/R0003063.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,14 +110,9 @@
       <workItem from="1615266681518" duration="13278000" />
       <workItem from="1615444707525" duration="8239000" />
       <workItem from="1615467030858" duration="12511000" />
-      <workItem from="1617514662704" duration="12923000" />
-    </task>
-    <task id="LOCAL-00027" summary="叉焼">
-      <created>1602074599979</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1602074599979</updated>
+      <workItem from="1617514662704" duration="13527000" />
+      <workItem from="1617690769804" duration="14039000" />
+      <workItem from="1617767131496" duration="2121000" />
     </task>
     <task id="LOCAL-00028" summary="叉焼">
       <created>1602074928223</created>
@@ -437,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617534631577</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="中華コンデンサーマイク">
+      <created>1617536185782</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1617536185782</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
