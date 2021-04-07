@@ -95,14 +95,7 @@
       <workItem from="1615467030858" duration="12511000" />
       <workItem from="1617514662704" duration="13527000" />
       <workItem from="1617690769804" duration="14039000" />
-      <workItem from="1617767131496" duration="2964000" />
-    </task>
-    <task id="LOCAL-00029" summary="マギーズキッチン">
-      <created>1604119522866</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1604119522866</updated>
+      <workItem from="1617767131496" duration="3464000" />
     </task>
     <task id="LOCAL-00030" summary="炭火チャーシュー追記">
       <created>1604630324337</created>
@@ -440,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617769998535</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="バンメン">
+      <created>1617771425432</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1617771425432</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
