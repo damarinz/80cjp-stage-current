@@ -41,6 +41,9 @@
 
 ＜その他写真＞
 
+![](images/IMG_1381.jpeg)
+
+
 ![](images/IMG_1540.jpeg)
 
 
@@ -52,6 +55,7 @@
 
 少し古いタイプのバンメンの銘品だと筆者が思うのは、東急東横線　反町にある「神奈川　翠香園」
 
+![](images/IMG_1540.jpeg)
 
 
 ![](images/R0003063.jpeg)
@@ -164,12 +168,19 @@ TEL：045-241-7845
 ## 参考文献
 
 
+https://www.mpweekly.com/culture/于逸堯-拌麵-辦麵-68564
+
+
 
 バンメン研究家のブログ
+http://g.kyoto-art.ac.jp/reports/1455/
+
+
 https://banmen.hatenadiary.jp
 
 
-https://www.mpweekly.com/culture/于逸堯-拌麵-辦麵-68564
+
+
 https://www.royalchinagroup.co.uk/propeller/uploads/2018/09/RC-Kitchen-Menu.pdf
 
 
