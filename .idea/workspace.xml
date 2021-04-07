@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_1536.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_1539.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_1540.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_1542.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_1681.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_2413.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_2457.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_2460.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_2462.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_2465.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_6698.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/IMG_7058.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/R0003058.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/R0003059.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/R0003061.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/R0003063 (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/images/R0003063.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,14 +95,7 @@
       <workItem from="1615467030858" duration="12511000" />
       <workItem from="1617514662704" duration="13527000" />
       <workItem from="1617690769804" duration="14039000" />
-      <workItem from="1617767131496" duration="2121000" />
-    </task>
-    <task id="LOCAL-00028" summary="叉焼">
-      <created>1602074928223</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1602074928223</updated>
+      <workItem from="1617767131496" duration="2964000" />
     </task>
     <task id="LOCAL-00029" summary="マギーズキッチン">
       <created>1604119522866</created>
@@ -457,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617536185782</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="バンメン">
+      <created>1617769998535</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1617769998535</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,6 +461,7 @@
     <MESSAGE value="PC Watch KODAK SSD" />
     <MESSAGE value="巻揚記事" />
     <MESSAGE value="中華コンデンサーマイク" />
-    <option name="LAST_COMMIT_MESSAGE" value="中華コンデンサーマイク" />
+    <MESSAGE value="バンメン" />
+    <option name="LAST_COMMIT_MESSAGE" value="バンメン" />
   </component>
 </project>
