@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMG_3365.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/R0004545.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,21 +103,7 @@
       <workItem from="1617514662704" duration="13527000" />
       <workItem from="1617690769804" duration="14039000" />
       <workItem from="1617767131496" duration="5654000" />
-      <workItem from="1618112170781" duration="28212000" />
-    </task>
-    <task id="LOCAL-00035" summary="肉まん再調査">
-      <created>1606383202298</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1606383202298</updated>
-    </task>
-    <task id="LOCAL-00036" summary="肉まん再調査">
-      <created>1606383268014</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1606383268014</updated>
+      <workItem from="1618112170781" duration="28571000" />
     </task>
     <task id="LOCAL-00037" summary="肉まん再調査">
       <created>1607561226887</created>
@@ -452,7 +434,21 @@
       <option name="project" value="LOCAL" />
       <updated>1618125673307</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="スープ">
+      <created>1618645710766</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1618645710766</updated>
+    </task>
+    <task id="LOCAL-00085" summary="スープ">
+      <created>1618645828668</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1618645828668</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
