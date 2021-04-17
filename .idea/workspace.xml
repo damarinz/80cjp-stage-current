@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMGP0787.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMGP3991.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMGP4154.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMGP4302.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMG_1556.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMG_3620.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMG_3624.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMG_4898.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMG_5843.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMG_7183.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMG_9625.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/R0003301.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/R0004307.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMG_3365.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/R0004545.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/横浜にわずかに残る古典メニュー　バンメンを味わう/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +18,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -109,14 +107,7 @@
       <workItem from="1617514662704" duration="13527000" />
       <workItem from="1617690769804" duration="14039000" />
       <workItem from="1617767131496" duration="5654000" />
-      <workItem from="1618112170781" duration="12058000" />
-    </task>
-    <task id="LOCAL-00034" summary="肉まん再調査">
-      <created>1606383117516</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1606383117516</updated>
+      <workItem from="1618112170781" duration="28212000" />
     </task>
     <task id="LOCAL-00035" summary="肉まん再調査">
       <created>1606383202298</created>
@@ -454,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617786947330</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="スープ">
+      <created>1618125673306</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1618125673307</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,6 +474,7 @@
     <MESSAGE value="巻揚記事" />
     <MESSAGE value="中華コンデンサーマイク" />
     <MESSAGE value="バンメン" />
-    <option name="LAST_COMMIT_MESSAGE" value="バンメン" />
+    <MESSAGE value="スープ" />
+    <option name="LAST_COMMIT_MESSAGE" value="スープ" />
   </component>
 </project>
