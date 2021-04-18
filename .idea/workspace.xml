@@ -16,14 +16,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -104,7 +96,77 @@
       <workItem from="1617514662704" duration="13527000" />
       <workItem from="1617690769804" duration="14039000" />
       <workItem from="1617767131496" duration="5654000" />
-      <workItem from="1618112170781" duration="33781000" />
+      <workItem from="1618746548801" duration="311000" />
+    </task>
+    <task id="LOCAL-00034" summary="肉まん再調査">
+      <created>1606383117516</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1606383117516</updated>
+    </task>
+    <task id="LOCAL-00035" summary="肉まん再調査">
+      <created>1606383202298</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1606383202298</updated>
+    </task>
+    <task id="LOCAL-00036" summary="肉まん再調査">
+      <created>1606383268014</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1606383268014</updated>
+    </task>
+    <task id="LOCAL-00037" summary="肉まん再調査">
+      <created>1607561226887</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1607561226887</updated>
+    </task>
+    <task id="LOCAL-00038" summary="肉まん再調査">
+      <created>1609058968913</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1609058968913</updated>
+    </task>
+    <task id="LOCAL-00039" summary="肉まん再調査">
+      <created>1609059538943</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1609059538943</updated>
+    </task>
+    <task id="LOCAL-00040" summary="肉まん再調査">
+      <created>1609063269269</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1609063269269</updated>
+    </task>
+    <task id="LOCAL-00041" summary="肉まん再調査　文章リライト">
+      <created>1609077643171</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1609077643171</updated>
+    </task>
+    <task id="LOCAL-00042" summary="肉まん再調査　文章リライト">
+      <created>1609077667858</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1609077667858</updated>
+    </task>
+    <task id="LOCAL-00043" summary="肉まん再調査　文章リライト">
+      <created>1609115692263</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1609115692263</updated>
     </task>
     <task id="LOCAL-00044" summary="肉まん再調査　文章リライト">
       <created>1609115965719</created>
@@ -379,77 +441,7 @@
       <option name="project" value="LOCAL" />
       <updated>1617786947330</updated>
     </task>
-    <task id="LOCAL-00083" summary="スープ">
-      <created>1618125673306</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1618125673307</updated>
-    </task>
-    <task id="LOCAL-00084" summary="スープ">
-      <created>1618645710766</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1618645710766</updated>
-    </task>
-    <task id="LOCAL-00085" summary="スープ">
-      <created>1618645828668</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1618645828668</updated>
-    </task>
-    <task id="LOCAL-00086" summary="スープ">
-      <created>1618646271793</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1618646271793</updated>
-    </task>
-    <task id="LOCAL-00087" summary="バンメン修正">
-      <created>1618646495776</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1618646495776</updated>
-    </task>
-    <task id="LOCAL-00088" summary="バンメン修正">
-      <created>1618646818071</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1618646818071</updated>
-    </task>
-    <task id="LOCAL-00089" summary="バンメン修正">
-      <created>1618647245088</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1618647245088</updated>
-    </task>
-    <task id="LOCAL-00090" summary="バンメン修正">
-      <created>1618647282109</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1618647282109</updated>
-    </task>
-    <task id="LOCAL-00091" summary="バンメン修正">
-      <created>1618727918276</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1618727918276</updated>
-    </task>
-    <task id="LOCAL-00092" summary="スープ修正">
-      <created>1618728047784</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1618728047784</updated>
-    </task>
-    <option name="localTasksCounter" value="93" />
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,9 +463,6 @@
     <MESSAGE value="巻揚記事" />
     <MESSAGE value="中華コンデンサーマイク" />
     <MESSAGE value="バンメン" />
-    <MESSAGE value="スープ" />
-    <MESSAGE value="バンメン修正" />
-    <MESSAGE value="スープ修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="スープ修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="バンメン" />
   </component>
 </project>
