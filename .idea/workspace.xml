@@ -96,14 +96,7 @@
       <workItem from="1617514662704" duration="13527000" />
       <workItem from="1617690769804" duration="14039000" />
       <workItem from="1617767131496" duration="5654000" />
-      <workItem from="1618746548801" duration="311000" />
-    </task>
-    <task id="LOCAL-00034" summary="肉まん再調査">
-      <created>1606383117516</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1606383117516</updated>
+      <workItem from="1618746548801" duration="1202000" />
     </task>
     <task id="LOCAL-00035" summary="肉まん再調査">
       <created>1606383202298</created>
@@ -441,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617786947330</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="佛跳牆">
+      <created>1618746868018</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1618746868019</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,6 +463,7 @@
     <MESSAGE value="巻揚記事" />
     <MESSAGE value="中華コンデンサーマイク" />
     <MESSAGE value="バンメン" />
-    <option name="LAST_COMMIT_MESSAGE" value="バンメン" />
+    <MESSAGE value="佛跳牆" />
+    <option name="LAST_COMMIT_MESSAGE" value="佛跳牆" />
   </component>
 </project>
