@@ -196,3 +196,22 @@ https://www.royalchinagroup.co.uk/propeller/uploads/2018/09/RC-Kitchen-Menu.pdf
 
 https://ol.mingpao.com/ldy/cultureleisure/culture/20191117/1573928611730/讀食時光-薑葱撈麵清淡柔和
 「辦麵以湯煨 較撈麵濕潤」の記載がある
+
+
+■　長崎パンメン
+
+https://hashimoto-tsuyoshi.net/長崎消息＋大阪仕事＋拌麺（パンメン）/
+https://ameblo.jp/nagasakibkyugurumekikou/entry-12519918834.html
+https://tanoshi-nagasaki.jp/kouzanrou-menu
+
+## 修正テキスト
+
+- この細麺について、筆者と友人は「広州西関の路地裏にある老舗『呉財記』で食べた麺を思い出すね」とよく話します。（なぜ思い出すのか理由を追記すると読者に伝わります）
+- この細麺について、筆者と友人は「広州西関の路地裏にある老舗『呉財記』で食べた麺を思い出すね」とよく話します。日本では珍しい極細、歯ごたえの食感がそっくりです。
+
+
+結論
+
+
+横浜に渡来した広東人コックのバンメンが、汁の多い麺を好む日本人の嗜好にあわせて適応する形で汁多めに姿を変えた、というのが筆者の推測です。
+
