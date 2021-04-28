@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="" />
+    <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,21 +99,7 @@
       <workItem from="1618746548801" duration="1202000" />
       <workItem from="1619101440244" duration="128000" />
       <workItem from="1619168093928" duration="805000" />
-      <workItem from="1619590900186" duration="2470000" />
-    </task>
-    <task id="LOCAL-00038" summary="肉まん再調査">
-      <created>1609058968913</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1609058968913</updated>
-    </task>
-    <task id="LOCAL-00039" summary="肉まん再調査">
-      <created>1609059538943</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1609059538943</updated>
+      <workItem from="1619590900186" duration="4161000" />
     </task>
     <task id="LOCAL-00040" summary="肉まん再調査">
       <created>1609063269269</created>
@@ -441,7 +430,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619593247963</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="バンメン修正">
+      <created>1619594130962</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1619594130962</updated>
+    </task>
+    <task id="LOCAL-00088" summary="バンメン修正">
+      <created>1619594297660</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1619594297660</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
