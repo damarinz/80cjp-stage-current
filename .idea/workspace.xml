@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/images/IMGP0416.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/中華の神髄は家族のために炊くスープにあり/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +104,8 @@
       <workItem from="1619168093928" duration="805000" />
       <workItem from="1619590900186" duration="4763000" />
       <workItem from="1619744203883" duration="2004000" />
+      <workItem from="1620002870663" duration="2000" />
+      <workItem from="1631341122811" duration="7389000" />
     </task>
     <task id="LOCAL-00041" summary="肉まん再調査　文章リライト">
       <created>1609077643171</created>
