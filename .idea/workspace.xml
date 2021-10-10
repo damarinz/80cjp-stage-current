@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/images/IMG_4563.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/images/IMG_4564.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/images/IMG_4601.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/images/IMG_4653.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/images/IMG_5064.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/images/IMG_5079.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/images/IMG_5081.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/images/IMG_5085.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/images/IMG_5087.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/images/MAP_fitfaith.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【掲載済】クーラーバッグをもって秋の中華街お散歩！持ち帰りと通販を楽しもう（月餅編）/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/クーラーバッグをもって中華街お散歩！持ち帰りと通販を楽しもう（焼物編）/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/クーラーバッグをもって中華街お散歩！持ち帰りと通販を楽しもう（焼物編）/images/Icon&#10;" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,14 +118,8 @@
       <workItem from="1619590900186" duration="4763000" />
       <workItem from="1619744203883" duration="2004000" />
       <workItem from="1620002870663" duration="2000" />
-      <workItem from="1631341122811" duration="7389000" />
-    </task>
-    <task id="LOCAL-00041" summary="肉まん再調査　文章リライト">
-      <created>1609077643171</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1609077643171</updated>
+      <workItem from="1631341122811" duration="9622000" />
+      <workItem from="1633759143344" duration="6771000" />
     </task>
     <task id="LOCAL-00042" summary="肉まん再調査　文章リライト">
       <created>1609077667858</created>
@@ -450,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619612385478</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="AliExpressの迷い方　中華パルスオキシメーター">
+      <created>1631416848324</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1631416848324</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,6 +488,7 @@
     <MESSAGE value="バンメン" />
     <MESSAGE value="佛跳牆" />
     <MESSAGE value="バンメン修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="バンメン修正" />
+    <MESSAGE value="AliExpressの迷い方　中華パルスオキシメーター" />
+    <option name="LAST_COMMIT_MESSAGE" value="AliExpressの迷い方　中華パルスオキシメーター" />
   </component>
 </project>
