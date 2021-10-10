@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/PC Watch: 中華パルスオキシメーターにもすがりたいコロナ蔓延/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/【掲載済】クーラーバッグをもって秋の中華街お散歩！持ち帰りと通販を楽しもう（月餅編）/Icon&#10;" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/クーラーバッグをもって中華街お散歩！持ち帰りと通販を楽しもう（焼物編）/Icon&#10;" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/クーラーバッグをもって中華街お散歩！持ち帰りと通販を楽しもう（焼物編）/images/Icon&#10;" beforeDir="false" />
@@ -109,21 +107,7 @@
       <workItem from="1619744203883" duration="2004000" />
       <workItem from="1620002870663" duration="2000" />
       <workItem from="1631341122811" duration="9622000" />
-      <workItem from="1633759143344" duration="9156000" />
-    </task>
-    <task id="LOCAL-00046" summary="肉まん再調査　文章リライト">
-      <created>1609118486107</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1609118486107</updated>
-    </task>
-    <task id="LOCAL-00047" summary="CO2測定器">
-      <created>1609921101189</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1609921101189</updated>
+      <workItem from="1633759143344" duration="9497000" />
     </task>
     <task id="LOCAL-00048" summary="CO2測定器">
       <created>1609921823526</created>
@@ -454,7 +438,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633840472970</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="AliExpressの迷い方　中華パルスオキシメーター">
+      <created>1633840831152</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1633840831152</updated>
+    </task>
+    <task id="LOCAL-00096" summary="AliExpressの迷い方　中華パルスオキシメーター">
+      <created>1633841000578</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1633841000578</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
