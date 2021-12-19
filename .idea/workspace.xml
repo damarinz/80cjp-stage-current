@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/博雅のシウマイを探して/images/IMG_5287.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/博雅のシウマイを探して/images/IMG_5288.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/博雅のシウマイを探して/images/IMG_5302.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/博雅のシウマイを探して/images/R0004234.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/博雅のシウマイを探して/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/【掲載済】クーラーバッグをもって秋の中華街お散歩！持ち帰りと通販を楽しもう（月餅編）/Icon&#10;" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/クーラーバッグをもって中華街お散歩！持ち帰りと通販を楽しもう（焼物編）/Icon&#10;" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/クーラーバッグをもって中華街お散歩！持ち帰りと通販を楽しもう（焼物編）/images/Icon&#10;" beforeDir="false" />
@@ -19,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -47,6 +56,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -107,14 +117,9 @@
       <workItem from="1619744203883" duration="2004000" />
       <workItem from="1620002870663" duration="2000" />
       <workItem from="1631341122811" duration="9622000" />
-      <workItem from="1633759143344" duration="9497000" />
-    </task>
-    <task id="LOCAL-00048" summary="CO2測定器">
-      <created>1609921823526</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1609921823526</updated>
+      <workItem from="1633759143344" duration="10075000" />
+      <workItem from="1639880610520" duration="141000" />
+      <workItem from="1639880788021" duration="6400000" />
     </task>
     <task id="LOCAL-00049" summary="CO2測定器">
       <created>1609922370082</created>
@@ -452,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633841000578</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="AliExpressの迷い方　中華パルスオキシメーター">
+      <created>1633841237013</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1633841237013</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
