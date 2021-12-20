@@ -115,14 +115,7 @@
       <workItem from="1631341122811" duration="9622000" />
       <workItem from="1633759143344" duration="10075000" />
       <workItem from="1639880610520" duration="141000" />
-      <workItem from="1639880788021" duration="11687000" />
-    </task>
-    <task id="LOCAL-00051" summary="CO2測定器　タイトル修正">
-      <created>1609922692084</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1609922692084</updated>
+      <workItem from="1639880788021" duration="12424000" />
     </task>
     <task id="LOCAL-00052" summary="CO2測定器　タイトル修正">
       <created>1609922861883</created>
@@ -460,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639897137408</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="博雅のシウマイを探して　エピローグ">
+      <created>1639967959550</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1639967959550</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
