@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
+    <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="FJJB　中華ミリタリークロノグラフの沼　Typo修正">
       <change beforePath="$PROJECT_DIR$/PC Watch: AliExpressなら男の夢が実現できる　腕時計コレクターへの道/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/PC Watch: AliExpressなら男の夢が実現できる　腕時計コレクターへの道/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/【掲載済】クーラーバッグをもって秋の中華街お散歩！持ち帰りと通販を楽しもう（月餅編）/Icon&#10;" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/クーラーバッグをもって中華街お散歩！持ち帰りと通販を楽しもう（焼物編）/Icon&#10;" beforeDir="false" />
@@ -116,28 +116,7 @@
       <workItem from="1633759143344" duration="10075000" />
       <workItem from="1639880610520" duration="141000" />
       <workItem from="1639880788021" duration="12858000" />
-      <workItem from="1640479289524" duration="23743000" />
-    </task>
-    <task id="LOCAL-00055" summary="PC Watch KODAK SSD">
-      <created>1615015619208</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1615015619209</updated>
-    </task>
-    <task id="LOCAL-00056" summary="PC Watch KODAK SSD">
-      <created>1615016137878</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1615016137878</updated>
-    </task>
-    <task id="LOCAL-00057" summary="PC Watch KODAK SSD">
-      <created>1615016463588</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1615016463588</updated>
+      <workItem from="1640479289524" duration="24084000" />
     </task>
     <task id="LOCAL-00058" summary="PC Watch KODAK SSD">
       <created>1615016507867</created>
@@ -461,7 +440,28 @@
       <option name="project" value="LOCAL" />
       <updated>1641101412027</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="FJJB　中華ミリタリークロノグラフの沼　Typo修正">
+      <created>1641101765366</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1641101765366</updated>
+    </task>
+    <task id="LOCAL-00105" summary="FJJB　中華ミリタリークロノグラフの沼　Typo修正">
+      <created>1641101813518</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1641101813518</updated>
+    </task>
+    <task id="LOCAL-00106" summary="FJJB　中華ミリタリークロノグラフの沼　Typo修正">
+      <created>1641101878734</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1641101878734</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,6 +488,7 @@
     <MESSAGE value="AliExpressの迷い方　中華パルスオキシメーター" />
     <MESSAGE value="博雅のシウマイを探して　エピローグ" />
     <MESSAGE value="FJJB　中華ミリタリークロノグラフの沼" />
-    <option name="LAST_COMMIT_MESSAGE" value="FJJB　中華ミリタリークロノグラフの沼" />
+    <MESSAGE value="FJJB　中華ミリタリークロノグラフの沼　Typo修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="FJJB　中華ミリタリークロノグラフの沼　Typo修正" />
   </component>
 </project>
