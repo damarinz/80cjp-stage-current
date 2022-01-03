@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="FJJB　中華ミリタリークロノグラフの沼　Typo修正">
+    <list default="true" id="4f8f4bd9-b2f2-466d-acd4-239c9f5a2381" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/PC Watch: AliExpressなら男の夢が実現できる　腕時計コレクターへの道/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/PC Watch: AliExpressなら男の夢が実現できる　腕時計コレクターへの道/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/【掲載済】クーラーバッグをもって秋の中華街お散歩！持ち帰りと通販を楽しもう（月餅編）/Icon&#10;" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/クーラーバッグをもって中華街お散歩！持ち帰りと通販を楽しもう（焼物編）/Icon&#10;" beforeDir="false" />
@@ -116,14 +116,7 @@
       <workItem from="1633759143344" duration="10075000" />
       <workItem from="1639880610520" duration="141000" />
       <workItem from="1639880788021" duration="12858000" />
-      <workItem from="1640479289524" duration="24084000" />
-    </task>
-    <task id="LOCAL-00058" summary="PC Watch KODAK SSD">
-      <created>1615016507867</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1615016507867</updated>
+      <workItem from="1640479289524" duration="24669000" />
     </task>
     <task id="LOCAL-00059" summary="巻揚記事">
       <created>1615472826333</created>
@@ -461,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641101878734</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="FJJB　中華ミリタリークロノグラフの沼　Typo修正">
+      <created>1641102044075</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1641102044075</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
